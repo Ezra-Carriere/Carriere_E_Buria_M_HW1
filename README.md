@@ -1,1 +1,6 @@
-# Carriere_E_Buria_M_HW1
+# Team Awesome
+
+All about our awesome dev team. 
+
+Hello! How is it going? 
+Hello 
