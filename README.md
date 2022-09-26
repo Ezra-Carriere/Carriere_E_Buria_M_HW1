@@ -1,3 +1,5 @@
+# Team Awesome
+
 # Mykyta Buria
 
 My name is Mykyta but you can also call me Nikita because it is a similar name. I am from Ukraine and arrived in Canada three months ago. I used to do rowing in Ukraine so I was a professional rower. I like watching anime, different series and films, I like basketball and volleyball. Now I am studying in the Interactive Media Design and I love it because of programs and programming languages which I am going to learn.  
