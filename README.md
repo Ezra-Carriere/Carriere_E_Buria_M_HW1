@@ -11,7 +11,8 @@ My name is Ezra Carriere. I am 18 years old, born and raised in London, Ontario.
 ## Mykyta's image (My native city)
 ![alt text](https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/12/received-462006441119130-1.jpeg "My native city")
 
-
+## Ezra's image (London Ontario)
+![alttext](london.jpg "London Ontario) 
 
 ## Usage
 
