@@ -8,9 +8,10 @@ My name is Mykyta but you can also call me Nikita because it is a similar name. 
 
 My name is Ezra Carriere. I am 18 years old, born and raised in London, Ontario. For my entire life I have always loved soccer. Growing up and playing across the province gave me some of my favourite memories in life. Another one of my passions is film. I love watching and assessing all different kinds of movies. Being at Fanshawe in the Interactive Media Design program has been very enjoybale so far and I am really looking forward to the next couple years of school!
 
-## Installation
+## Mykyta's image (My native city)
+![alt text](https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/12/received-462006441119130-1.jpeg "My native city")
 
-TODO: Describe the installation process
+
 
 ## Usage
 
