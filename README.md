@@ -12,7 +12,7 @@ My name is Ezra Carriere. I am 18 years old, born and raised in London, Ontario.
 ![alt text](https://tw-job-site-cms-service-production.s3.eu-central-1.amazonaws.com/app/uploads/2019/12/received-462006441119130-1.jpeg "My native city")
 
 ## Ezra's image (London Ontario)
-https://www.google.com/search?q=london+ontario&rlz=1C5CHFA_enCA929CA931&sxsrf=ALiCzsbrKxT4tu6jFgfRAcJzJa14qSTkVw:1664667958715&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVneSym8D6AhWQBDQIHQxGAF0Q_AUoA3oECAMQBQ&biw=1144&bih=688&dpr=2 
+![alttext] https://www.google.com/search?q=london+ontario&rlz=1C5CHFA_enCA929CA931&sxsrf=ALiCzsbrKxT4tu6jFgfRAcJzJa14qSTkVw:1664667958715&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjVneSym8D6AhWQBDQIHQxGAF0Q_AUoA3oECAMQBQ&biw=1144&bih=688&dpr=2  "My native city")
 
 ## Usage
 
